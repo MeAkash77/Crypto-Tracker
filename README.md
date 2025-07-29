@@ -12,7 +12,7 @@ A Cryptocurrency price tracking app made using Next.js
 **1. Clone the project**
 
 ```bash
-  git clone https://github.com/jaikpillai/crypto-tracker.git
+  git clone https://github.com/MeAkash77/Crypto-Tracker.git
 ```
 
 **2. Go to the project directory**
