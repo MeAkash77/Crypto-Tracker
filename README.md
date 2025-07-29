@@ -2,7 +2,7 @@
 # CryptoBoo 👻 
 A Cryptocurrency price tracking app made using Next.js
 
-👉 [**Live Demo**](https://cryptoboo.vercel.app/)
+👉 [**Live Demo**](https://crypto-tracker-two-theta.vercel.app/)
 
 ![App Screenshot](https://cryptoboo.vercel.app/screenshots/homepage.jpg)
 
