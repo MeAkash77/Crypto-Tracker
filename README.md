@@ -2,6 +2,8 @@
 # CryptoBoo 👻 
 A Cryptocurrency price tracking app made using Next.js
 
+CryptoBoo 👻 is a responsive and feature-rich cryptocurrency price tracking web application built with Next.js, TypeScript, Tailwind CSS, and Chart.js. It fetches real-time data from the Coinranking API to display up-to-date prices, historical trends, and detailed statistics for various cryptocurrencies. The application supports price tracking in both fiat and crypto currencies, integrates a live search, pagination for scalability, and renders intuitive price charts for visual analysis. Designed with performance and usability in mind, CryptoBoo offers a clean, modern UI and a smooth user experience across all devices.
+
 👉 [**Live Demo**](https://crypto-tracker-two-theta.vercel.app/)
 
 ![App Screenshot](https://cryptoboo.vercel.app/screenshots/homepage.jpg)
