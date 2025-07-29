@@ -100,6 +100,7 @@ Open http://localhost:3000 with your browser to see the result.
 
 
 ## Tech Stack
+The CryptoBoo 👻 application is built using a modern and robust tech stack. On the client side, it leverages React and Next.js for building a fast, SEO-friendly, and scalable frontend. TypeScript is used to add static typing and improve code reliability and maintainability. For styling, Tailwind CSS provides utility-first classes to create a responsive and clean UI, while Chart.js powers the dynamic and interactive data visualizations like price trends and historical charts. Real-time cryptocurrency data is fetched from the Coinranking API, ensuring accurate and up-to-date market insights for users. This tech stack ensures a performant, responsive, and developer-friendly web application.
 
 **Client:** React, Next.js, Typescript,  TailwindCSS, Chart.js
 
