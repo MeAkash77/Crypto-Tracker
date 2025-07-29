@@ -10,6 +10,7 @@ CryptoBoo 👻 is a responsive and feature-rich cryptocurrency price tracking we
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Amp](https://img.shields.io/badge/Amp-005AF0?style=for-the-badge&logo=amp&logoColor=white)
 
 👉 [**Live Demo**](https://crypto-tracker-two-theta.vercel.app/)
 
