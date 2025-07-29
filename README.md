@@ -14,6 +14,9 @@ CryptoBoo 👻 is a responsive and feature-rich cryptocurrency price tracking we
 👉 [**Live Demo**](https://crypto-tracker-two-theta.vercel.app/)
 
 ![App Screenshot](https://cryptoboo.vercel.app/screenshots/homepage.jpg)
+
+## Contact Page
+
 <img width="959" height="443" alt="Image" src="https://github.com/user-attachments/assets/ceacd188-f550-462e-a473-6da38c41b73a" />
 
 
